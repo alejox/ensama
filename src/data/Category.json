@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "bano",
+    "name": "Baño",
+    "description": "Muebles de lavamanos y gabinetes fáciles de instalar en tu baño.",
+    "image": "/images/product/1000x1000.png"
+  },
+  {
+    "slug": "repisas",
+    "name": "Repisas",
+    "description": "Repisas flotantes para organizar y decorar cualquier espacio.",
+    "image": "/images/product/1000x1000.png"
+  },
+  {
+    "slug": "espejos",
+    "name": "Espejos",
+    "description": "Espejos con marco y espejos con repisa integrada.",
+    "image": "/images/product/1000x1000.png"
+  },
+  {
+    "slug": "organizacion",
+    "name": "Organización",
+    "description": "Organizadores y zapateros para aprovechar cada rincón.",
+    "image": "/images/product/1000x1000.png"
+  }
+]

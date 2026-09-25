@@ -1,0 +1,648 @@
+[
+  {
+    "id": "1",
+    "category": "bano",
+    "type": "mueble-lavamanos",
+    "name": "Mueble de lavamanos flotante Bogotá",
+    "new": true,
+    "sale": false,
+    "rate": 0,
+    "price": 590000,
+    "originPrice": 590000,
+    "sold": 0,
+    "quantity": 20,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 60,
+      "heightCm": 45,
+      "depthCm": 40
+    },
+    "material": "MDF melamínico hidrófugo",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Mueble desarmado en piezas",
+      "Kit de anclaje a pared",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 5,
+    "stockPolicy": "stock",
+    "care": "Limpiar con paño húmedo. Evitar productos abrasivos y exceso de agua sobre las uniones.",
+    "installation": "Incluye kit de anclaje a pared. Instalación estimada de 40 a 60 minutos con herramienta básica.",
+    "featured": true,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Mueble de lavamanos flotante para baños pequeños y medianos. Diseño compacto, fácil de limpiar y de instalar sin obra.",
+    "slug": "mueble-lavamanos-flotante-bogota"
+  },
+  {
+    "id": "2",
+    "category": "bano",
+    "type": "gabinete",
+    "name": "Gabinete de baño con espejo Medellín",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 420000,
+    "originPrice": 420000,
+    "sold": 0,
+    "quantity": 15,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 70,
+      "depthCm": 15
+    },
+    "material": "MDF melamínico",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Gris ceniza",
+        "colorCode": "#8C8C8C",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Gabinete con espejo integrado",
+      "Kit de anclaje a pared",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 5,
+    "stockPolicy": "stock",
+    "care": "Limpiar el espejo con un paño seco o levemente húmedo. Limpiar el cuerpo con un paño húmedo.",
+    "installation": "Incluye kit de anclaje a pared. Instalación estimada de 30 a 45 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Gabinete de pared con espejo y compartimentos internos para guardar artículos de aseo, ideal para baños con poco espacio.",
+    "slug": "gabinete-bano-espejo-medellin"
+  },
+  {
+    "id": "3",
+    "category": "bano",
+    "type": "mueble-lavamanos",
+    "name": "Mueble de lavamanos con cajones Cali",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 690000,
+    "originPrice": 690000,
+    "sold": 0,
+    "quantity": 10,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 80,
+      "heightCm": 50,
+      "depthCm": 45
+    },
+    "material": "Madera de pino y MDF melamínico",
+    "finishes": [
+      {
+        "name": "Nogal",
+        "colorCode": "#5B3A29",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Mueble desarmado en piezas",
+      "2 cajones con guías telescópicas",
+      "Kit de anclaje a pared",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 12,
+    "stockPolicy": "made_to_order",
+    "care": "Limpiar con paño húmedo. Secar bien las guías de los cajones si se mojan.",
+    "installation": "Incluye kit de anclaje a pared. Instalación estimada de 60 a 90 minutos con herramienta básica.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Mueble de lavamanos con dos cajones para baños que necesitan más almacenamiento. Fabricado bajo pedido.",
+    "slug": "mueble-lavamanos-cajones-cali"
+  },
+  {
+    "id": "4",
+    "category": "repisas",
+    "type": "repisa-individual",
+    "name": "Repisa flotante Recta 60",
+    "new": true,
+    "sale": false,
+    "rate": 0,
+    "price": 189000,
+    "originPrice": 189000,
+    "sold": 0,
+    "quantity": 30,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 60,
+      "heightCm": 4,
+      "depthCm": 20
+    },
+    "material": "MDF melamínico",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Negro",
+        "colorCode": "#1F1F1F",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "1 repisa",
+      "Kit de anclaje oculto",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 3,
+    "stockPolicy": "stock",
+    "care": "Limpiar con paño húmedo. Evitar cargas superiores a las indicadas en el manual.",
+    "installation": "Sistema de anclaje oculto. Instalación estimada de 15 a 20 minutos.",
+    "featured": true,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Repisa flotante recta de 60 cm, ideal para libros, plantas o decoración. Anclaje oculto sin tornillos visibles.",
+    "slug": "repisa-flotante-recta-60"
+  },
+  {
+    "id": "5",
+    "category": "repisas",
+    "type": "set-repisas",
+    "name": "Set de 3 repisas flotantes Trío",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 259000,
+    "originPrice": 259000,
+    "sold": 0,
+    "quantity": 25,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 40,
+      "heightCm": 4,
+      "depthCm": 18
+    },
+    "material": "MDF melamínico",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "3 repisas de 40 cm",
+      "Kit de anclaje oculto para cada una",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 3,
+    "stockPolicy": "stock",
+    "care": "Limpiar con paño húmedo. Evitar cargas superiores a las indicadas en el manual.",
+    "installation": "Sistema de anclaje oculto. Instalación estimada de 30 a 40 minutos para las 3 repisas.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Set de 3 repisas flotantes para crear una composición decorativa en pared. Fáciles de nivelar e instalar.",
+    "slug": "set-3-repisas-flotantes-trio"
+  },
+  {
+    "id": "6",
+    "category": "repisas",
+    "type": "repisa-esquinera",
+    "name": "Repisa esquinera flotante Rincón",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 219000,
+    "originPrice": 219000,
+    "sold": 0,
+    "quantity": 18,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 30,
+      "heightCm": 4,
+      "depthCm": 30
+    },
+    "material": "Madera de pino",
+    "finishes": [
+      {
+        "name": "Natural",
+        "colorCode": "#C9A876",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Nogal",
+        "colorCode": "#5B3A29",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "1 repisa esquinera",
+      "Kit de anclaje oculto",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 7,
+    "stockPolicy": "made_to_order",
+    "care": "Limpiar con paño húmedo. Proteger de la humedad directa y la luz solar constante.",
+    "installation": "Sistema de anclaje oculto para esquina. Instalación estimada de 20 a 30 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Repisa esquinera en madera de pino, aprovecha rincones para plantas, libros o decoración.",
+    "slug": "repisa-esquinera-flotante-rincon"
+  },
+  {
+    "id": "7",
+    "category": "espejos",
+    "type": "espejo-redondo",
+    "name": "Espejo de pared con marco redondo Sol",
+    "new": true,
+    "sale": false,
+    "rate": 0,
+    "price": 249000,
+    "originPrice": 249000,
+    "sold": 0,
+    "quantity": 22,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 60,
+      "heightCm": 60,
+      "depthCm": 4
+    },
+    "material": "Marco en MDF y vidrio templado",
+    "finishes": [
+      {
+        "name": "Natural",
+        "colorCode": "#C9A876",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Negro",
+        "colorCode": "#1F1F1F",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "1 espejo con marco",
+      "Kit de colgado",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 5,
+    "stockPolicy": "stock",
+    "care": "Limpiar el vidrio con un paño seco o con limpiavidrios sin amoníaco. Limpiar el marco con paño húmedo.",
+    "installation": "Incluye kit de colgado para pared de mampostería o drywall. Instalación estimada de 15 minutos.",
+    "featured": true,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Espejo redondo con marco en MDF, ideal para recibidores, salas o habitaciones. Vidrio templado de seguridad.",
+    "slug": "espejo-pared-marco-redondo-sol"
+  },
+  {
+    "id": "8",
+    "category": "espejos",
+    "type": "espejo-repisa",
+    "name": "Espejo con repisa Reflejo",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 329000,
+    "originPrice": 329000,
+    "sold": 0,
+    "quantity": 12,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 50,
+      "heightCm": 70,
+      "depthCm": 12
+    },
+    "material": "MDF melamínico y vidrio templado",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "1 espejo con repisa integrada",
+      "Kit de anclaje a pared",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 5,
+    "stockPolicy": "stock",
+    "care": "Limpiar el vidrio con limpiavidrios sin amoníaco. Limpiar la repisa con paño húmedo.",
+    "installation": "Incluye kit de anclaje a pared. Instalación estimada de 30 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Espejo de pared con repisa integrada, práctico para entradas y baños. Aprovecha el mismo espacio para guardar objetos pequeños.",
+    "slug": "espejo-con-repisa-reflejo"
+  },
+  {
+    "id": "9",
+    "category": "espejos",
+    "type": "espejo-rectangular",
+    "name": "Espejo rectangular con marco Recto",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 279000,
+    "originPrice": 279000,
+    "sold": 0,
+    "quantity": 16,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 45,
+      "heightCm": 90,
+      "depthCm": 3
+    },
+    "material": "Marco en madera de pino y vidrio templado",
+    "finishes": [
+      {
+        "name": "Natural",
+        "colorCode": "#C9A876",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Nogal",
+        "colorCode": "#5B3A29",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "1 espejo con marco",
+      "Kit de colgado vertical u horizontal",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 7,
+    "stockPolicy": "made_to_order",
+    "care": "Limpiar el vidrio con limpiavidrios sin amoníaco. Limpiar el marco con paño húmedo.",
+    "installation": "Incluye kit de colgado. Se puede instalar en posición vertical u horizontal. Instalación estimada de 15 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Espejo rectangular de cuerpo entero con marco en madera de pino, ideal para habitaciones y vestidores.",
+    "slug": "espejo-rectangular-marco-recto"
+  },
+  {
+    "id": "10",
+    "category": "organizacion",
+    "type": "zapatero",
+    "name": "Zapatero organizador 5 niveles Paso",
+    "new": true,
+    "sale": false,
+    "rate": 0,
+    "price": 349000,
+    "originPrice": 349000,
+    "sold": 0,
+    "quantity": 14,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 60,
+      "heightCm": 100,
+      "depthCm": 28
+    },
+    "material": "Melamina",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Gris ceniza",
+        "colorCode": "#8C8C8C",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Mueble desarmado en piezas",
+      "5 niveles ajustables",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 6,
+    "stockPolicy": "stock",
+    "care": "Limpiar con paño húmedo. Evitar exceso de peso por nivel según el manual.",
+    "installation": "Ensamble tipo mueble RTA (armado en casa). Tiempo estimado de armado: 45 a 60 minutos.",
+    "featured": true,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Zapatero de 5 niveles para organizar el calzado de toda la familia en poco espacio de piso.",
+    "slug": "zapatero-organizador-5-niveles-paso"
+  },
+  {
+    "id": "11",
+    "category": "organizacion",
+    "type": "organizador-modular",
+    "name": "Organizador modular de closet Orden",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 590000,
+    "originPrice": 590000,
+    "sold": 0,
+    "quantity": 8,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 90,
+      "heightCm": 180,
+      "depthCm": 40
+    },
+    "material": "Melamina",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Mueble desarmado en piezas",
+      "Divisiones internas ajustables",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 14,
+    "stockPolicy": "made_to_order",
+    "care": "Limpiar con paño húmedo. No sobrecargar los entrepaños.",
+    "installation": "Ensamble tipo mueble RTA (armado en casa). Tiempo estimado de armado: 90 a 120 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Sistema modular para organizar closets, con divisiones ajustables para ropa doblada, colgada y accesorios. Fabricado bajo pedido.",
+    "slug": "organizador-modular-closet-orden"
+  },
+  {
+    "id": "12",
+    "category": "organizacion",
+    "type": "mueble-multiusos",
+    "name": "Mueble organizador multiusos Nicho",
+    "new": false,
+    "sale": false,
+    "rate": 0,
+    "price": 459000,
+    "originPrice": 459000,
+    "sold": 0,
+    "quantity": 11,
+    "quantityPurchase": 1,
+    "dimensions": {
+      "widthCm": 80,
+      "heightCm": 80,
+      "depthCm": 30
+    },
+    "material": "MDF melamínico",
+    "finishes": [
+      {
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
+        "name": "Negro",
+        "colorCode": "#1F1F1F",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "boxContents": [
+      "Mueble desarmado en piezas",
+      "Tornillería",
+      "Manual de instalación"
+    ],
+    "leadTimeDays": 6,
+    "stockPolicy": "stock",
+    "care": "Limpiar con paño húmedo. Evitar exceso de peso por compartimento.",
+    "installation": "Ensamble tipo mueble RTA (armado en casa). Tiempo estimado de armado: 40 a 50 minutos.",
+    "featured": false,
+    "thumbImage": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Mueble de nichos multiusos para organizar libros, decoración o artículos varios en sala, estudio o habitación.",
+    "slug": "mueble-organizador-multiusos-nicho"
+  }
+]
