@@ -1,11 +1,12 @@
 import type { Metadata } from 'next'
-import { Instrument_Sans } from 'next/font/google'
+import { Manrope, Montserrat } from 'next/font/google'
 import '@/styles/styles.scss'
 import GlobalProvider from './GlobalProvider'
 import ModalCart from '@/components/Modal/ModalCart'
 import ModalSearch from '@/components/Modal/ModalSearch'
 
-const instrument = Instrument_Sans({ subsets: ['latin'] })
+const headingFont = Manrope({ subsets: ['latin'], variable: '--font-heading' })
+const bodyFont = Montserrat({ subsets: ['latin'], variable: '--font-body' })
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000'
 
@@ -32,7 +33,7 @@ export default function RootLayout({
   return (
     <GlobalProvider>
       <html lang="es">
-        <body className={instrument.className}>
+        <body className={`${headingFont.variable} ${bodyFont.variable}`}>
           {children}
           <ModalCart />
           <ModalSearch />

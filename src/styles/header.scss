@@ -64,7 +64,7 @@
         animation: animateHeader ease 0.5s;
 
         &.style-watch {
-            background-color: var(--green);
+            background-color: var(--accent);
         }
     }
 }
@@ -689,7 +689,7 @@
 .style-marketplace {
     .button-main {
         &:hover {
-            background-color: var(--green);
+            background-color: var(--accent);
             color: var(--black);
         }
     }

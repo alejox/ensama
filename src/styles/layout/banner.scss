@@ -55,11 +55,11 @@
         }
     }
 
-    &.bg-green {
+    &.bg-accent {
 
         .swiper-button-prev,
         .swiper-button-next {
-            background-color: var(--green);
+            background-color: var(--accent);
             color: var(--black);
         }
     }

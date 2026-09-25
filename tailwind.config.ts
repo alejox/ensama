@@ -23,12 +23,12 @@ const config: Config = {
     },
     colors: {
       transparent: 'transparent',
-      'green': '#D2EF9A',
-      'black': '#1F1F1F',
+      'accent': '#B58A60',
+      'black': '#20201E',
       'secondary': '#696C70',
       'secondary2': '#A0A0A0',
       'white': '#ffffff',
-      'surface': '#F7F7F7',
+      'surface': '#F4F1EB',
       'red': '#DB4444',
       'purple': '#8684D4',
       'success': '#3DAB25',
@@ -38,16 +38,16 @@ const config: Config = {
       'outline': 'rgba(0, 0, 0, 0.15)',
       'surface2': 'rgba(255, 255, 255, 0.2)',
       'surface1': 'rgba(255, 255, 255, 0.1)',
-      // ENSAMA brand tokens (placeholder palette pending real brand colors from
-      // ENSAMA). Everything brand-colored in the storefront reads from this
-      // scale, so swapping these six hex values is a one-place palette change.
+      // ENSAMA brand palette (brand board): 50 marfil, 200 arena, 400 roble,
+      // 600 terracota, 900 carbón; 100 is a derived step between marfil and
+      // arena. Mirrored as --ensama-* vars in globals.scss.
       'ensama': {
-        50: '#FAF6F0',
-        100: '#F0E6D8',
-        200: '#E3D2B8',
-        400: '#B08968',
-        600: '#8A6248',
-        900: '#2B2118',
+        50: '#F4F1EB',
+        100: '#E9E1D5',
+        200: '#D8CCBC',
+        400: '#B58A60',
+        600: '#8C6246',
+        900: '#20201E',
       },
     },
   },

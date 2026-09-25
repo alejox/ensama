@@ -13,7 +13,7 @@
 .popular-product,
 .lookbook {
     .dots:hover span {
-        background-color: var(--green);
+        background-color: var(--accent);
     }
 
     .item {
@@ -146,7 +146,7 @@
 
     .button-block .button-main {
         &:hover {
-            background-color: var(--green);
+            background-color: var(--accent);
             color: var(--black);
         }
     }

@@ -34,7 +34,7 @@ const Product: React.FC<ProductProps> = ({ data }) => {
             <Link href={`/productos/${data.slug}`} className="product-main cursor-pointer block">
                 <div className="product-thumb bg-white relative overflow-hidden rounded-2xl">
                     {data.stockPolicy === 'made_to_order' && (
-                        <div className="product-tag text-button-uppercase bg-green px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
+                        <div className="product-tag text-button-uppercase bg-accent px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
                             Sobre pedido
                         </div>
                     )}

@@ -64,8 +64,8 @@
                 }
             }
 
-            &.bg-green {
-                border-color: var(--green);
+            &.bg-accent {
+                border-color: var(--accent);
 
                 .border-line {
                     border-color: var(--white);
@@ -80,7 +80,7 @@
 
                     &::before,
                     &::after {
-                        border-color: var(--green);
+                        border-color: var(--accent);
                     }
                 }
             }

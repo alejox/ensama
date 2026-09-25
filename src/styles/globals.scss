@@ -1,11 +1,11 @@
 /* Main color */
 :root {
-  --green: #D2EF9A;
-  --black: #1F1F1F;
+  --accent: #B58A60;
+  --black: #20201E;
   --secondary: #696C70;
   --secondary2: #A0A0A0;
   --white: #ffffff;
-  --surface: #F7F7F7;
+  --surface: #F4F1EB;
   --red: #DB4444;
   --purple: #8684D4;
   --success: #3DAB25;
@@ -16,14 +16,31 @@
   --surface1: rgba(255, 255, 255, 0.1);
   --surface2: rgba(255, 255, 255, 0.2);
 
-  /* ENSAMA brand tokens (placeholder palette pending real brand colors).
-     Mirrors the `ensama` scale in tailwind.config.ts: swap both together. */
-  --ensama-50: #FAF6F0;
-  --ensama-100: #F0E6D8;
-  --ensama-200: #E3D2B8;
-  --ensama-400: #B08968;
-  --ensama-600: #8A6248;
-  --ensama-900: #2B2118;
+  /* ENSAMA brand palette (brand board): marfil, arena, roble, terracota, carbón.
+     100 is a derived step between marfil and arena. Mirrors the `ensama` scale
+     in tailwind.config.ts: change both together. */
+  --ensama-50: #F4F1EB;
+  --ensama-100: #E9E1D5;
+  --ensama-200: #D8CCBC;
+  --ensama-400: #B58A60;
+  --ensama-600: #8C6246;
+  --ensama-900: #20201E;
+}
+
+/* Brand typography: Manrope for headings, Montserrat for body copy.
+   The --font-* variables are set by next/font in app/layout.tsx. */
+body {
+  font-family: var(--font-body), sans-serif;
+}
+
+.text-display,
+.heading1,
+.heading2,
+.heading3,
+.heading4,
+.heading5,
+.heading6 {
+  font-family: var(--font-heading), sans-serif;
 }
 
 
@@ -240,12 +257,12 @@ input[type="file"] {
   transition: all ease 0.4s;
 
   &:hover {
-    background-color: var(--green);
-    color: var(--black);
+    background-color: var(--ensama-600);
+    color: var(--white);
 
     svg {
       path {
-        fill: var(--black);
+        fill: var(--white);
       }
     }
   }
