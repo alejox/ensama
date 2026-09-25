@@ -20,13 +20,13 @@
     "material": "MDF melamínico hidrófugo",
     "finishes": [
       {
-        "name": "Blanco",
-        "colorCode": "#F5F5F0",
+        "name": "Roble natural",
+        "colorCode": "#B08968",
         "image": "/images/product/1000x1000.png"
       },
       {
-        "name": "Roble natural",
-        "colorCode": "#B08968",
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
         "image": "/images/product/1000x1000.png"
       }
     ],
@@ -42,14 +42,10 @@
     "installation": "Incluye kit de anclaje a pared. Instalación estimada de 40 a 60 minutos con herramienta básica.",
     "featured": true,
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/mueble-lavamanos-flotante-bogota.png"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/mueble-lavamanos-flotante-bogota.png"
     ],
     "description": "Mueble de lavamanos flotante para baños pequeños y medianos. Diseño compacto, fácil de limpiar y de instalar sin obra.",
     "slug": "mueble-lavamanos-flotante-bogota"
@@ -183,13 +179,13 @@
     "material": "MDF melamínico",
     "finishes": [
       {
-        "name": "Blanco",
-        "colorCode": "#F5F5F0",
+        "name": "Roble natural",
+        "colorCode": "#B08968",
         "image": "/images/product/1000x1000.png"
       },
       {
-        "name": "Roble natural",
-        "colorCode": "#B08968",
+        "name": "Blanco",
+        "colorCode": "#F5F5F0",
         "image": "/images/product/1000x1000.png"
       },
       {
@@ -210,12 +206,10 @@
     "installation": "Sistema de anclaje oculto. Instalación estimada de 15 a 20 minutos.",
     "featured": true,
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/repisa-flotante-recta-60.png"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/repisa-flotante-recta-60.png"
     ],
     "description": "Repisa flotante recta de 60 cm, ideal para libros, plantas o decoración. Anclaje oculto sin tornillos visibles.",
     "slug": "repisa-flotante-recta-60"
@@ -369,13 +363,10 @@
     "installation": "Incluye kit de colgado para pared de mampostería o drywall. Instalación estimada de 15 minutos.",
     "featured": true,
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/espejo-pared-marco-redondo-sol.png"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/espejo-pared-marco-redondo-sol.png"
     ],
     "description": "Espejo redondo con marco en MDF, ideal para recibidores, salas o habitaciones. Vidrio templado de seguridad.",
     "slug": "espejo-pared-marco-redondo-sol"
@@ -506,6 +497,11 @@
     "material": "Melamina",
     "finishes": [
       {
+        "name": "Roble natural",
+        "colorCode": "#B08968",
+        "image": "/images/product/1000x1000.png"
+      },
+      {
         "name": "Blanco",
         "colorCode": "#F5F5F0",
         "image": "/images/product/1000x1000.png"
@@ -528,13 +524,10 @@
     "installation": "Ensamble tipo mueble RTA (armado en casa). Tiempo estimado de armado: 45 a 60 minutos.",
     "featured": true,
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/zapatero-organizador-5-niveles-paso.png"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/products/zapatero-organizador-5-niveles-paso.png"
     ],
     "description": "Zapatero de 5 niveles para organizar el calzado de toda la familia en poco espacio de piso.",
     "slug": "zapatero-organizador-5-niveles-paso"

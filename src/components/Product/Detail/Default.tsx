@@ -118,12 +118,11 @@ const Default: React.FC<Props> = ({ product, categoryName, related }) => {
                                                     key={index}
                                                     onClick={() => setActiveFinish(item.name)}
                                                 >
-                                                    <Image
-                                                        src={item.image}
-                                                        width={100}
-                                                        height={100}
-                                                        alt={item.name}
-                                                        className='rounded-xl'
+                                                    <div
+                                                        className='w-full h-full rounded-xl border border-line'
+                                                        style={{ backgroundColor: item.colorCode }}
+                                                        role='img'
+                                                        aria-label={item.name}
                                                     />
                                                     <div className="tag-action bg-black text-white caption2 capitalize px-1.5 py-0.5 rounded-sm">
                                                         {item.name}
